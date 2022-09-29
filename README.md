@@ -1,3 +1,1 @@
-# Teste
-
-meu primeiro projeto GIT
+Meu primeiro projeto GIT
